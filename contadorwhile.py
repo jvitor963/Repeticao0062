@@ -1,12 +1,12 @@
-# contadores com while
+#Contadores com While
 x = 1
-print("Contador Progressivo: ")
+print ("Contador Progressivo: ")
 while x<=10:
     print(x)
-    x+=1
+    x +=1
 
-print("Contador Regressivo: ")
+print ("Contador Regressivo: ")
 y = 10
-while y>=1:
+while y >= 1:
     print(y)
-    y-=1
+    y -=1
